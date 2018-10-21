@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/python-template), pl
 
 # Hands-on Demo
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+@[Luke, how many stars are there in these galaxies?]({"stubs": ["coffre4.py"], "command": "python3 test_coffre4.py"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
