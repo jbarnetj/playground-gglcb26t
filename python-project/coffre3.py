@@ -1,2 +1,2 @@
-nb_years = 0;
-print(nb_years)
+nombre_de_lapins = 0;
+print(nombre_de_lapins)
