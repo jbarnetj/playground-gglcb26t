@@ -12,7 +12,7 @@ Pour répondre, vous pouvez écrire un programme en python. Vous êtes libre d'u
     
 Cet exercice a été écrit pour l'article suivant 
 # English Version
-Suppose a newly-born pair of rabbits, one male, one female, are put in a field. Rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits. Suppose that our rabbits never die and that the female always produces one new pair (one male, one female) every month from the second month on. The puzzle that Fibonacci posed was...
+Suppose a newly-born pair of rabbits, one male, one female, are put in a field. Rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits. Suppose that our rabbits never die and that the female always produces one new pair (one male, one female) every month from the second month on. 
 
 How many pairs will there be in two year?
 
