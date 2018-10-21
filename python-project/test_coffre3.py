@@ -40,4 +40,5 @@ try:
 except Exception as e:
     fail()
     échec = True
+    send_msg("Désolé, ce n'est pas le bon nombre.", 'Courage !')
     send_msg("Erreur", e)
