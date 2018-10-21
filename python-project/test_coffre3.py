@@ -21,7 +21,7 @@ def nouv_print(*params):
     if len(params) == 1 and params[0] == 46368:
         success()
         send_msg(
-            "Bravo!", "Pour en voir, plus je vous invite à aller voir : https://fr.wikipedia.org/wiki/Suite_de_Fibonacci")
+            "Bravo!", "Pour en savoir, plus je vous invite à aller voir : https://fr.wikipedia.org/wiki/Suite_de_Fibonacci")
         échec = False
     else:
         échec = True
@@ -35,10 +35,9 @@ try:
 
     if échec:
         fail()
-        send_msg("Désolé, ce n'est pas le bon nombre.")
+        send_msg("Désolé, ce n'est pas le bon nombre.", 'Courage !')
 
 except Exception as e:
     fail()
     échec = True
-    send_msg("Courage !")
     send_msg("Erreur", e)
