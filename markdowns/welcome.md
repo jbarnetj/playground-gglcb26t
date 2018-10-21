@@ -7,6 +7,9 @@ Pour répondre, vous pouvez écrire un programme en python. Vous êtes libre d'u
     réponse = 5
     
     print(réponse)
+    
+Cet exercice a été écrit pour l'article suivant : 
+
 
 @[Enigme]({"stubs": ["coffre3.py"], "command": "python3 test_coffre3.py"})
 
