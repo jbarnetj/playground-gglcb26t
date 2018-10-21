@@ -10,7 +10,7 @@ Pour répondre, vous pouvez écrire un programme en python. Vous êtes libre d'u
     
     print(réponse)
     
-Cet exercice a été écrit pour l'article suivant :
+Cet exercice a été écrit pour l'article suivant : (https://irobotechart.com/enigme-avec-des-lapins.html)[https://irobotechart.com/enigme-avec-des-lapins.html]
 
 # English Version
 Suppose a newly-born pair of rabbits, one male, one female, are put in a field. Rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits. Suppose that our rabbits never die and that the female always produces one new pair (one male, one female) every month from the second month on. 
