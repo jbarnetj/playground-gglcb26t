@@ -1,6 +1,6 @@
 # Bienvenue
 
-#Version française
+# Version française
 
 Un homme met un couple de lapins dans un lieu isolé de tous les côtés par un mur. Combien de couples obtient-on en deux ans si chaque couple engendre tous les mois un nouveau couple à compter du troisième mois de son existence ?
 
