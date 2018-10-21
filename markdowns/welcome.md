@@ -12,6 +12,7 @@ Pour répondre, vous pouvez écrire un programme en python. Vous êtes libre d'u
     
 Cet exercice a été écrit pour l'article suivant 
 # English Version
-
+A man put a rabbit's couple in an isolated place 
+ 
 @[Enigme]({"stubs": ["coffre3.py"], "command": "python3 test_coffre3.py"})
 
