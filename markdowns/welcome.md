@@ -1,13 +1,14 @@
-# Welcome!
+# Bienvenue!
 
-This Python template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+Un homme met un couple de lapins dans un lieu isolé de tous les côtés par un mur. Combien de couples obtient-on en deux ans si chaque couple engendre tous les mois un nouveau couple à compter du troisième mois de son existence ?
 
+Pour répondre, vous pouvez écrire un programme en python. Vous êtes libre d'utiliser toutes les structures qui vous parraisent intérésante (par exemple les conditions ou boucles).  Cependant pour valider votre réponse, à la fin vous devez afficher votre résulats sous la forme d'un entier :
+'''
+réponse = 5
+print(réponse)
+'''
 
-The source code is on [GitHub](https://github.com/TechDotIO/python-template), please feel free to come up with proposals to improve it.
-
-# Hands-on Demo
-
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["coffre3.py"], "command": "python3 test_coffre3.py"})
+@[Enigme]({"stubs": ["coffre3.py"], "command": "python3 test_coffre3.py"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
