@@ -16,7 +16,7 @@ Suppose a newly-born pair of rabbits, one male, one female, are put in a field. 
 
 How many pairs will there be in two year?
 
-In order to answer, you can write a program in python. You are free to use all of the structures that you think interesting toutes les structures qui vous parraisent intérésante (for instance the loops).  However to check yoour answer, at the end you must print your results  in the form of integer :
+In order to answer, you can write a program in python. You are free to use all of the structures that you think interesting (for instance the loops).  However to check yoour answer, at the end you must print your results in the form of integer :
 
     answer = 5
     
