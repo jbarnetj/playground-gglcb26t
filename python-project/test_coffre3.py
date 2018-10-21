@@ -18,10 +18,10 @@ def fail():
 
 def nouv_print(*params):
     global échec
-    if len(params) == 1 and params[0] == "Bienvenue au CTF (Coffre-Trop-Fort). Confiez-moi tous vos biens!":
+    if len(params) == 1 and params[0] == 46368:
         success()
         send_msg(
-            "Bravo!", "Vous maîtrisez maintenant l'affichage de texte")
+            "Bravo!", "Pour en voir, plus je vous invite à aller voir : https://fr.wikipedia.org/wiki/Suite_de_Fibonacci")
         échec = False
     else:
         échec = True
@@ -35,11 +35,10 @@ try:
 
     if échec:
         fail()
-        send_msg("Pas tout à fait", 'Quelque chose ne va pas. Utilisez «print("message à afficher")» à la ligne 6 en vous assurant de bien copier le message entre les guillemets anglais.')
+        send_msg("Désolé, ce n'est pas le bon nombre.")
 
 except Exception as e:
     fail()
     échec = True
-    send_msg("Quelque chose cloche",
-             'Avez-vous mis les guillemets anglais (") à chaque bout de la phrase à afficher?')
+    send_msg("Courage !")
     send_msg("Erreur", e)
