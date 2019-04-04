@@ -1,4 +1,4 @@
-import builtins
+import builtins """this is a comment"""
 
 anc_print = builtins.print
 échec = True
